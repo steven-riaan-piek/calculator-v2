@@ -1,4 +1,4 @@
-Calculator V2 still a C# Console App
+Calculator V2 (is still a C# Console App)
 
 Overview
 I enhanced my original calculator by improving its structure and adding more functionality. This version introduces better control flow, error handling, and a more user-friendly experience.
